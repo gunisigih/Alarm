@@ -1,0 +1,49 @@
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.pdb
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.exe
+C:\Users\MEHMET\Documents\Visual Studio 2015\Projects\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.pdb
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\msnet\Egitim1501\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.pdb
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.exe
+C:\Users\nukhe\Desktop\Ayvansaray Universitesi\MsNet1\3.WinFormsGruplanmis\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe.config
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.exe
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\bin\Debug\Alarm.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Form1.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.exe
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.pdb
+D:\Ayvansaray Universitesi\MsNet1\3.WinForms-Gruplanmis\2\NbuyWinFormsSolution\2\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\bin\Debug\Alarm.exe
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\bin\Debug\Alarm.pdb
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\obj\Debug\Alarm.exe
+C:\Users\nukhe\Desktop\Wissen-Yollanacak\Alarm\obj\Debug\Alarm.pdb
+C:\Users\gunis\Desktop\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+C:\Users\gunis\Desktop\Alarm\obj\Debug\Alarm.exe
+C:\Users\gunis\Desktop\Alarm\obj\Debug\Alarm.pdb
